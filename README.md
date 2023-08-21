@@ -20,3 +20,8 @@ ds mun sit biometria
 colunas com redundancias e informações repetidas não necessárias 
 
 após análise não há registros brancos nem nulos no bd eleitorado 2020
+
+#Foi feito tratamento do arquivo menor, o arquivo maior teve erro ao realizar a manutenção do arquivo SP_turno_1
+
+o arquivo perfil_eleitorado_2020 foi tratado, pelo software JUPYTER NOTEBOOK, o arquivo que vou deixar de tratamento no repositorio mostra as linhas de códigos que utilizei.
+
